@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "563134790579",
+    "project_id": "trabalho1monitoreconomicos",
+    "storage_bucket": "trabalho1monitoreconomicos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563134790579:android:a6201efee6bb2f2149a9c6",
+        "android_client_info": {
+          "package_name": "com.example.bcb_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH02uKLQGPpsWdrs6_uQIuLgT3_-m-v0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
